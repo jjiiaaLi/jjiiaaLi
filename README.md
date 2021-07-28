@@ -3,7 +3,7 @@ My name is Jia H. Li
 I am a software engineer 😉
 
 ##### Current activities
-I am currently looking for a job after having graduated a 24 week programming boot camp at App Academy.  
+I am currently looking for a job after having graduated a 24 week full-stack software engineer boot camp at App Academy.  
 
 ##### History
 I was in the Marine Corps and was deployed in Iraq.  I also went to college and received a Bachelors degree in Earthh Sciences.
